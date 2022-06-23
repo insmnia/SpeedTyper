@@ -1,0 +1,15 @@
+C:\Users\tarlo\source\repos\CourseProject\CourseProject\bin\Debug\CourseProject.exe.config
+C:\Users\tarlo\source\repos\CourseProject\CourseProject\bin\Debug\CourseProject.exe
+C:\Users\tarlo\source\repos\CourseProject\CourseProject\bin\Debug\CourseProject.pdb
+C:\Users\tarlo\source\repos\CourseProject\CourseProject\obj\Debug\CourseProject.csproj.AssemblyReference.cache
+C:\Users\tarlo\source\repos\CourseProject\CourseProject\obj\Debug\CourseProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\tarlo\source\repos\CourseProject\CourseProject\obj\Debug\CourseProject.Properties.Resources.resources
+C:\Users\tarlo\source\repos\CourseProject\CourseProject\obj\Debug\CourseProject.csproj.GenerateResource.cache
+C:\Users\tarlo\source\repos\CourseProject\CourseProject\obj\Debug\CourseProject.exe.licenses
+C:\Users\tarlo\source\repos\CourseProject\CourseProject\obj\Debug\CourseProject.csproj.CoreCompileInputs.cache
+C:\Users\tarlo\source\repos\CourseProject\CourseProject\obj\Debug\CourseProject.exe
+C:\Users\tarlo\source\repos\CourseProject\CourseProject\obj\Debug\CourseProject.pdb
+C:\Users\tarlo\source\repos\CourseProject\CourseProject\obj\Debug\CourseProject.Main.resources
+C:\Users\tarlo\source\repos\CourseProject\CourseProject\obj\Debug\CourseProject.Results.resources
+C:\Users\tarlo\source\repos\CourseProject\CourseProject\bin\Debug\Results.mdf
+C:\Users\tarlo\source\repos\CourseProject\CourseProject\bin\Debug\Results_log.ldf
